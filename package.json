@@ -1,0 +1,21 @@
+{
+  "name": "typescript_essencial-react",
+  "version": "1.0.0",
+  "description": "Um repositório contendo uma série de exercícios de Typescript, feitos pelo professor Otávio Miranda, em seu curso de Typescript do básico ao avançado, mas que também estão presentes em seu curso de React. Estes exercícios abordam conceitos essenciais para o desenvolvimento de aplicações que utilizem o React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-caetano-reis/Typescript_Essencial-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lucas-caetano-reis/Typescript_Essencial-React/issues"
+  },
+  "homepage": "https://github.com/lucas-caetano-reis/Typescript_Essencial-React#readme"
+}
