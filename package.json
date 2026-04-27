@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lucas-caetano-reis/Typescript_Essencial-React#readme",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   }
 }
